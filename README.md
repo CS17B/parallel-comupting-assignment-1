@@ -27,5 +27,6 @@ output is also there in two processors as parts.we will check the source and
 destination loation then if it is other than zero we will stop.or we will repeat the 
 process.
 
-compiling:mpicc filename.c -0 excutablefilename
-runnung:mpirun -np 2 ./excutablefilename
+compiling:mpicc filename.c -0 excutablefilename.
+
+runnIng:mpirun -np 2 ./excutablefilename
